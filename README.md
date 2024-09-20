@@ -11,7 +11,8 @@ meaburro
 ###### H6
 
 Este texto esta en **negrita** y este en __negrita__
-Este texto esta en *cursiva y este en __cursiva__
+
+Este texto esta en *cursiva* y este en __cursiva__
 
 **palabra 1 __palabra2**
 
