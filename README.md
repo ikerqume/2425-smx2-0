@@ -12,7 +12,8 @@ meaburro
 
 Este texto esta en **negrita** y este en __negrita__
 
-Este texto esta en *cursiva* y este en __cursiva__
+Este texto esta en *cursiva* y este en **cursiva**
+
 
 **palabra 1 __palabra2**
 
