@@ -35,7 +35,7 @@ Este texto esta en *cursiva* y este en **cursiva**
 
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
 
-
+![FernandoAlonso](https://github.com/ikerqume/2425-smx2-0/blob/main/FernandoAlonso.jpg "el goat")
 
 
 
