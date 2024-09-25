@@ -37,5 +37,14 @@ Este texto esta en *cursiva* y este en **cursiva**
 
 ![FernandoAlonso](https://github.com/ikerqume/2425-smx2-0/blob/main/FernandoAlonso.jpg "el goat")
 
+|Columna 1 |Columna 2 | Columna 3|
+|-----------|:---------:|------------:|
+|Col 3 es |right-alligned|$1600|
+|Col 2 es |centred|$12|
+|Col 2 es |centred|$12|
+
+ 
+
+
 
 
